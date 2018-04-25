@@ -1,0 +1,13 @@
+.navbar {
+  background: #133677 !important;
+  color: #ffffff !important; }
+  .navbar.navbar-light .navbar-brand {
+    color: #ffffff; }
+  .navbar .navbar-nav .nav-item .nav-link {
+    color: #ffffff; }
+    .navbar .navbar-nav .nav-item .nav-link:hover {
+      color: #ffffff; }
+
+.bg-innroad {
+  background-color: #133677;
+  border-color: #c5c5c5; }
